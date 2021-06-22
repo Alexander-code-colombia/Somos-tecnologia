@@ -1,4 +1,4 @@
-# Somos-Tecnologia
+# Somos-Tecnología
 Proyecto formativo
 
 Juan Pablo Valencia Sánchez
