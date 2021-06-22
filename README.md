@@ -1,2 +1,2 @@
-# Somos-tecnologia
+# Somos-Tecnologia
 Proyecto formativo
