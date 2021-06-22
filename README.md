@@ -2,4 +2,5 @@
 Proyecto formativo
 
 Juan Pablo Valencia Sánchez
-y Alexander Ossa Otalvaro
+juanpablovalencia749@gmail.com    
+Alexander Ossa Otalvaro
